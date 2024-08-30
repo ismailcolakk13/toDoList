@@ -1,2 +1,2 @@
-To-Do List App \n
+To-Do List App
 Cloned from GreatStack Youtube channel
